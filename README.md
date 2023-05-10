@@ -1,4 +1,4 @@
-# Prography 8th Android Quest
+# Github_users_book_demo
 
 ## Content
 This is an application that uses the github_users API to fetch and view various information of github users.
