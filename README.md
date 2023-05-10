@@ -1,7 +1,4 @@
-# github_users_book_demo
-
-## Content
-~~~~
+# Prography 8th Android Quest
 
 ## Tech stack
 
