@@ -42,7 +42,7 @@ This is an application that uses the github_users API to fetch and view various 
 ### User List Page
 1. Expose userList in card format. (Grid Layout)
 2. When the card was clicked, move to the corresponding user's Detail page.
-![image](https://github.com/Ahnnet/Github_users_book_demo/assets/93837441/55cfda51-5361-4301-b079-15806c0ad61c)
+<img src="https://github.com/Ahnnet/Github_users_book_demo/assets/93837441/55cfda51-5361-4301-b079-15806c0ad61c.png" width="200" height="400"/>
 
 
 ### User Detail Page
