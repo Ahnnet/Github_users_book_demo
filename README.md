@@ -39,6 +39,9 @@ This is an application that uses the github_users API to fetch and view various 
     
 ## Project usage and features
 
+### Intro
+<img src="https://github.com/Ahnnet/Github_users_book_demo/assets/93837441/ff2d2f4e-0dea-4006-acfa-6c7aea6bb332.png" width="200" height="400"/>
+
 ### User List Page
 1. Expose userList in card format. (Grid Layout)
 2. When the card was clicked, move to the corresponding user's Detail page.
@@ -49,10 +52,14 @@ This is an application that uses the github_users API to fetch and view various 
 1. Expose basic information about users. (Name, User type)
 2. When the 'GITHUB LINK' was clicked, move to the user's Github page.
 3. When the 'FOLLOWERS' was clicked, expose the user's followers in card format.
+<img src="https://github.com/Ahnnet/Github_users_book_demo/assets/93837441/d5aa3146-9860-4a1e-a026-8c4d8508ab44.png" width="200" height="400"/>
+
 
 ### Follower Page
 1. Expose FollowerList in card format. (Grid Layout)
 2. When the card was clicked, move to the corresponding follower's Detail Page.
+<img src="https://github.com/Ahnnet/Github_users_book_demo/assets/93837441/ff84bb6a-f270-4c2b-a2cb-2b1e0a21acda.png" width="200" height="400"/>
+
 
 ## Unsolved Issues
 1. Expose the 'Follower Number' in Follower Page.
