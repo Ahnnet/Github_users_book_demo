@@ -26,12 +26,12 @@ class DetailActivity : AppCompatActivity() {
         var type = intent.getStringExtra("type")
 
         // data set in layout
-        binding.txName.text = "NAME: "+name.toString()
+        binding.txName.text = "name: "+name.toString()
 
         binding.imgProfile.setImageURI(profile?.toUri())
         Glide.with(this).load(profile).into(binding.imgProfile)
 
-        binding.txType.text = "TYPE: "+type.toString()
+        binding.txType.text = "type: "+type.toString()
 
         // github button onClickListener. Hyperlink
         binding.btnHtml.setOnClickListener {

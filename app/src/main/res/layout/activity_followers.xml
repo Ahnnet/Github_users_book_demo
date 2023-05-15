@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".FollowersActivity"
     android:orientation="vertical"
-    android:background="@color/prography_main">
+    android:background="@color/main">
 
     <TextView
         android:id="@+id/tx_title"
